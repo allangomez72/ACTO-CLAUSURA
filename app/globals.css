@@ -6,6 +6,8 @@
   --foreground-rgb: 0, 0, 0;
   --background-start-rgb: 214, 219, 220;
   --background-end-rgb: 255, 255, 255;
+  --background-gradient-start: #ffd700; /* Amarillo casi dorado */
+  --background-gradient-end: #ffffff; /* Blanco */
 }
 
 @media (prefers-color-scheme: dark) {

@@ -4,6 +4,8 @@ import Navbar from './components/Navbar'
 import AboutSection from './components/AboutSection'
 import Jump from './components/Jump'
 import Footer from './components/Footer'
+import Programa from './components/Programa'
+import EstudiantesLista from './components/EstudiantesLista'
 
 
 export default function Home() {
@@ -14,6 +16,9 @@ export default function Home() {
         <HeroSection />
         <AboutSection />
         <Jump />
+        <br />
+        <br />
+        <Programa />
       </div>
       <Footer />
     </main>
