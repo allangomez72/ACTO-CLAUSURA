@@ -34,14 +34,13 @@ const AboutSection = () => {
                     {images.map((image, index) => (
                         <div key={index} className="relative">
                             {/* Marco alrededor de la imagen */}
-                            <div className="border border-[#181818] rounded-md overflow-hidden">
-                                <Image
-                                    src={image}
-                                    alt={`Slide ${index + 1}`}
-                                    width={1000}
-                                    height={1000}
-                                />
-                            </div>
+
+                            <Image
+                                src={image}
+                                alt={`Slide ${index + 1}`}
+                                width={1000}
+                                height={1000}
+                            />
                         </div>
                     ))}
                 </Slider>
