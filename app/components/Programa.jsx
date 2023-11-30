@@ -13,7 +13,7 @@ const Programa = () => {
 
           <li className='mb-4'> Ingreso del Pabellón Nacional y Estandarte del Establecimiento Portado por los alumnos abanderados.</li>
           <p>
-            Sexto A: Merlyn Anahí Chalí Cutzal y Jennie Rocio Mux
+            Sexto A: Merlyn Anahí Chalí Cutzal y Jennie Rocio Mux Saníc
             <br /><br />
             Sexto B: Angel Fernando Bal Hernández y Fatima Angélica Otzín Notz
             <br /><br />

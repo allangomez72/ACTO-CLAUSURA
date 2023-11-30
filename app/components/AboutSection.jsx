@@ -48,7 +48,7 @@ const AboutSection = () => {
                     <br></br>
                     <h2 className='text-4xl font-bold text-white mb-4'>Acto protocolario</h2>
                     <p className='text-base md:text-lg'>La Dirección, Personal Docente, Alumnos y Alumnas de la XXIX Promoción y Directiva de Padres de Familia de la Escuela Oficial Urbana Mixta &quot;Catonal&quot;,
-                        invita a usted y familia al Acto de Clausura de Sexto grado, que se realizara el dia 6 de diciembre del presente año, a partir de las 8:00 horas en las instalaciones de nuestro
+                        invita a usted y familia al Acto de Clausura de Sexto grado, que se realizara el dia 6 de diciembre del presente año, a partir de las 8:30 horas en las instalaciones de nuestro
                         establecimiento.
                     </p>
                     <br></br>
