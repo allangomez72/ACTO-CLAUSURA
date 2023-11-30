@@ -27,7 +27,7 @@ const TAB_DATA = [
 
                 <div className='rounded-lg overflow-hidden bg-gradient-to-r from-[#181818] to-[#303030] p-4'>
                     <Image
-                        src="/images/FB-20.jpg"
+                        src="/images/FB-20.webp"
                         alt="gradoA"
                         width={1000}
                         height={1000}
@@ -67,7 +67,7 @@ const TAB_DATA = [
             <>
                 <div className='rounded-lg overflow-hidden bg-gradient-to-r from-[#181818] to-[#303030] p-4'>
                     <Image
-                        src="/images/FB-15.jpg"
+                        src="/images/FB-15.webp"
                         alt="gradoB"
                         width={1000}
                         height={1000}
@@ -104,7 +104,7 @@ const TAB_DATA = [
             <>
                 <div className='rounded-lg overflow-hidden bg-gradient-to-r from-[#181818] to-[#303030] p-4'>
                     <Image
-                        src="/images/FB-17.jpg"
+                        src="/images/FB-17.webp"
                         alt="gradoC"
                         width={1000}
                         height={1000}

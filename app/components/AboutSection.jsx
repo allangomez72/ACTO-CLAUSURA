@@ -7,10 +7,10 @@ import Image from 'next/image'
 
 
 const images = [
-    "/images/FB-14.jpg",
-    "/images/FB-07.png",
-    "/images/FB-09.png",
-    "/images/FB-11.png",
+    "/images/FB-14.webp",
+    "/images/FB-07.webp",
+    "/images/FB-09.webp",
+    "/images/FB-11.webp",
 
     // Agrega otras imágenes aquí
 ];
