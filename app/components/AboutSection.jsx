@@ -73,7 +73,7 @@ const AboutSection = () => {
                         </div>
                     </div>
                     <br></br>
-                    <p className='text-base md:text-lg'> San Juan Comalapa, Diciembre 2023</p>
+                    <p className='text-base md:text-lg'> San Juan Comalapa, diciembre 2023</p>
                 </div>
             </div>
         </section>
