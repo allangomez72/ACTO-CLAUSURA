@@ -59,7 +59,7 @@ const AboutSection = () => {
                             <p className='font-semibold'>Profesor de grado</p>
                             <br></br>
                             <p className='text-base md:text-lg font-bold'>Enma Gómez Mux</p>
-                            <p className='font-semibold'>Profesor de grado</p>
+                            <p className='font-semibold'>Profesora de grado</p>
 
                         </div>
                         <div className='w-1/5'></div>

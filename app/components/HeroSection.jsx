@@ -16,7 +16,7 @@ const HeroSection = () => {
           </h1>
           <h2 className='mb-4 text-2xl sm:text-3xl lg:text-4xl font-extrabold'>
             <span style={{ color: '#ffcc00' }}>Promoción XXIX</span> <br />
-            <span className='text-white'>2018-2013<br />Clausura Sexto Primaria</span>
+            <span className='text-white'>2018-2023<br />Clausura Sexto Primaria</span>
           </h2>
           <p className='text-[#ADB7BE] text-base sm:text-lg mb-6 lg:text-xl'></p>
         </div>

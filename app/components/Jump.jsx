@@ -9,10 +9,10 @@ const NOMBRES_SEXTO_A = ["Bal  Martín,  Nancy  Estefany", "Calí  Muchuch,  Sé
     "Cumez  Ajú,  Rosmery  Dayana", "Cutzal  Chalí,  Linder  Antoni", "Cutzal  Cutzal,  Miriam  Yesenia", "Hernández  Cux,  Helen  Aracely", "Jutzuy  Miza,  Armando  Nehemías", "Mux  Saníc,  Jennie  Rocío",
     "Poyón  Yool,  Ludwin  Enmanuel", "Quiná  Simón,  Jaqueline  Karina", "Simón  Roquel,  Teresa  Elisenda", "Son  Simón,  Neicy  Marleny", "Sucúc  Chalí,  Franklin  Orlando", "Tubac  Jutzuy,  Angel  Neftalí"];
 
-const NOMBRES_SEXTO_C = ["Apén Lopez Mariela Noemi", "Calí Chicol Xeyla Rosmeri", "Cali Cuxil Dalia Esperanza", "Chalí Apén Erick Alfredo", "Chalí Bal Dani Fernando", "Chalí Son Emerson Oswaldo", "Chalí Tubac Alex Josué",
-    "Chex Chex Hendrik Estuardo", "Cujcuj Cuxil Mildre Yulisa Noemí", "Cumez Perén Edgar Isaac", "Cumez Tuctuc Ariel Wilfredo", "Cutzal Lopez Julissa Magaly", "Icu Calí Katherine Julissa", "Icú Curuchich Katerine Addaly",
-    "López Calí Kevin Leandro André", "Lopez Perén Lesly Cecilia", "Perén Son Nancy Maribel", "Perén Tuyuc Claudia Liseth", "Simón Samol Victor José", "Son Serech Heidy Karina", "Tartón Mejia Brendi Maidelin", "Tuyuc Apén Cindy Marleny",
-    "Tuyúc Choguix Emerson Wilson", "Tzaj Poyon Dani Estuardo", "Tzaj Xocop Dylan David"]
+const NOMBRES_SEXTO_C = ["Apén Lopez Mariela Noemi", "Calí Chicol Xeyla Rosmeri", "Chalí Apén Erick Alfredo", "Chalí Son Emerson Oswaldo", "Chalí Tubac Alex Josué",
+    "Chex Chex Hendrik Estuardo", "Cujcuj Cuxil Mildre Yulisa Noemí","Cumez Tuctuc Ariel Wilfredo", "Cutzal Lopez Julissa Magaly", "Icu Calí Katherine Julissa", "Icú Curuchich Katerine Addaly",
+    "López Calí Kevin Leandro André", "Lopez Perén Lesly Cecilia", "Perén Son Nancy Maribel", "Perén Tuyuc Claudia Liseth", "Simón Samol Victor José", "Tartón Mejia Brendi Maidelin", "Tuyuc Apén Cindy Marleny",
+    "Tuyúc Choguix Emerson Wilson", "Tzaj Poyon Dani Eduardo", "Tzaj Xocop Dylan David"]
 
 const NOMBRES_SEXTO_B = ["Bal Hernández, Angel Fernando","Calí García, Keysi Yulisa", "Calí Perén, Meissy Rosanna", "Chalí Apén, Sindy Meliza", "Chalí Ichaj, Líssely Dajana", "Chalí Telón, Harol Antoni", "Cutzal Cutzal, Sandy Lourdes", "Cuxil Coy, Delmy Aracely", "Cuxil Poyón, Carlos Alexander",
 "Cuxil Tzaj, Maybelin Rosmery", "Miza Sajbochol, Daniel Abraham", "Ordoñez López, Jessiny Evangely Adaly", "Otzín Notz, Fátima Angélica", "Oxlaj Xocop, Selvin Yovany", "Paz Són, Yosselin Alicia Lisseth", "Poyón García,Marvin Eduardo", "Quiná Calí, Dany Alan Eliú", "Quiná Chalí, Wilder Ismael Humberto",
@@ -82,7 +82,7 @@ const TAB_DATA = [
                             </tr>
                         </thead>
                         <tbody>
-                            {NOMBRES_SEXTO_A.map((nombre, index) => (
+                            {NOMBRES_SEXTO_B.map((nombre, index) => (
                                 <tr
                                     key={index}
                                     className={`transition-all duration-300 ease-in-out hover:bg-gray-600 ${index % 2 === 0 ? 'bg-[#181818]' : 'bg-[#121212]'
