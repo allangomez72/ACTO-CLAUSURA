@@ -16,7 +16,7 @@ const navLinks = [
     path: "#protocolo",
   },
   {
-    title: "Seccion",
+    title: "Sección",
     path: "#contact",
   },
   {
