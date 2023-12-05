@@ -9,7 +9,7 @@ const Programa = () => {
       <div className='mb-8'>
         <ol className='list-decimal pl-4'>
           <li className='mb-4'>Ingreso de la XXIX Promoción, acompañados del Director Julio Cesar Calí Otzoy y Docentes de sexto grado, Jose Rafael Calí Otzoy, Saraí Peneleu Yojcom y Enma Gómez Mux</li>
-          <li className='mb-4'>Invocación a Dios por un alumno de sexto seccion &quot;B&quot;{/*pendiente*/}</li>
+          <li className='mb-4'>Invocación a Dios por la alumna Fatima Angelica Otzin Notz de sexto seccion &quot;B&quot;{/*pendiente*/}</li>
 
           <li className='mb-4'> Ingreso del Pabellón Nacional y Estandarte del Establecimiento Portado por los alumnos abanderados.</li>
           <p>
@@ -21,7 +21,7 @@ const Programa = () => {
           </p>
           <br />
           <li className='mb-4'> Canto del Himno Nacional dirigido por un alumno de sexto seccion &quot;A&quot;.</li>
-          <li className='mb-4'> Jura a la Bandera dirigido por un alumno de sexto seccion &quot;C&quot;.</li>
+          <li className='mb-4'> Jura a la Bandera dirigido por el alumno Dylan David Tzaj Xocop de sexto seccion &quot;C&quot;.</li>
           <li className='mb-4'> Ingreso de alumnos abanderados de Quinto Primaria y traspaso de la Bandera Nacional y Estandarte del Establecimiento. </li>
           <p>
             Quinto A: Daniel Ricardo David Chalí Cutzal
@@ -30,11 +30,11 @@ const Programa = () => {
           </p>
           <br />
           <li className='mb-4'> Condecoración de alumnos abanderados de sexto grado por la Comisión de Evaluación.</li>
-          <li className='mb-4'> Palabras de bienvenida a cargo de un alumno de sexto seccion B.</li>
+          <li className='mb-4'> Palabras de bienvenida a cargo de la alumna Melannie Lourdes Quina Cutzal de sexto seccion B.</li>
           <li className='mb-4'> Intervención del Señor Director prof. Julio César Calí Otzoy.</li>
           <li className='mb-4'> Entrega de Diplomas a los y las estudiantes de sexto primaria A, B y C.</li>
           <li className='mb-4'> Intervención de un representante de La Directiva de Padres de Familia.</li>
-          <li className='mb-4'> Palabras de despedida a cargo de un alumno de sexto seccion &quot;C&quot;.</li>
+          <li className='mb-4'> Palabras de despedida a cargo de la alumna Lesly Cecilia Lopez Péren de sexto seccion &quot;C&quot;.</li>
           <li className='mb-4'> Egreso del Pabellón Nacional y Estandarte del Establecimiento por estudiantes distinguidos de quinto grado.</li>
           <li className='mb-4'> Egreso de Mesa Directiva.</li>
           <li className='mb-4'> Palabras de agradecimiento a cargo de un miembro de la Directiva de Padres de Familia.</li>
