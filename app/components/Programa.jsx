@@ -33,11 +33,11 @@ const Programa = () => {
           <li className='mb-4'> Palabras de bienvenida a cargo de la alumna Melannie Lourdes Quina Cutzal de sexto seccion B.</li>
           <li className='mb-4'> Intervención del Señor Director prof. Julio César Calí Otzoy.</li>
           <li className='mb-4'> Entrega de Diplomas a los y las estudiantes de sexto primaria A, B y C.</li>
-          <li className='mb-4'> Intervención de un representante de La Directiva de Padres de Familia.</li>
+          <li className='mb-4'> Intervención de Gloria Semeya representante de La Directiva de Padres de Familia.</li>
           <li className='mb-4'> Palabras de despedida a cargo de la alumna Lesly Cecilia Lopez Péren de sexto seccion &quot;C&quot;.</li>
           <li className='mb-4'> Egreso del Pabellón Nacional y Estandarte del Establecimiento por estudiantes distinguidos de quinto grado.</li>
           <li className='mb-4'> Egreso de Mesa Directiva.</li>
-          <li className='mb-4'> Palabras de agradecimiento a cargo de un miembro de la Directiva de Padres de Familia.</li>
+          <li className='mb-4'> Palabras de agradecimiento a cargo de Karin Calí Sajcabun integrante de la Directiva de Padres de Familia.</li>
         </ol>
       </div>
       </div>
